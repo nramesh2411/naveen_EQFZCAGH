@@ -369,6 +369,7 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
+        <description>field description 2021-09-09 15:18:35</description>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
